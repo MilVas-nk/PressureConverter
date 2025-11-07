@@ -5,7 +5,7 @@
 **Pressure Converter** — это настольное приложение для Windows, разработанное на Visual Basic .NET с использованием .NET Framework 4.8. Приложение предназначено для инженеров, техников и специалистов в области измерительной техники, позволяя быстро конвертировать единицы давления и рассчитывать соответствующие значения тока для калибровки измерительных приборов.
 
 <div align="center">
-![Pressure Converter](PressureConverter.png){width=450}
+<img src="PressureConverter.png" width="450" alt="Pressure Converter"/>
 </div>
 
 ## Функциональность
@@ -70,3 +70,4 @@
 ## Автор
 
 MilVas
+
